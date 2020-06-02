@@ -19,7 +19,7 @@ public class JenkinsBuild {
   // ------------------------------------------------------------------------
   public static void BuildMacOS(){
  
-    string appName = "AppName";
+    string appName = "JenkinsTest";
     string targetDir = "~/Desktop";
  
     // find: -executeMethod
